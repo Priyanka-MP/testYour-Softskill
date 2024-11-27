@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # testYour-Softskill
 
 # Soft Skills Test Application
@@ -57,3 +58,6 @@ Manage logs and alerts via AWS CloudWatch.
 Add video/audio input for communication skill tests.
 Integrate AI/ML models to analyze textual and audio responses.
 Enable multi-language support for global reach.
+=======
+# testYour-Softskill -MyApplication
+>>>>>>> 9c02a99409d45757ea9c84dce6a9d859c0b3d429
